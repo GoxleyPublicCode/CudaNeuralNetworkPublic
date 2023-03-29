@@ -32,8 +32,8 @@ enum WEIGHT_INIT_MODE
 
 enum LOSS_FUNCTIONS
 {
-    MEAN_SQURED_ERROR, //mean squared error
-    CROSS_ENTROPY_ERROR, //cross entropy loss
+    MEAN_SQURED_ERROR,
+    CROSS_ENTROPY_ERROR,
 };
 
 enum ACTIVATION_FUNCTIONS
